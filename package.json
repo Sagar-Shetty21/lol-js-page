@@ -1,8 +1,8 @@
 {
-    "name": "lol.js_product_page",
+    "name": "lol-js_product_page",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Sagar-Shetty21/lol.js",
+    "homepage": "https://sagar-shetty21.github.io/lol-js-page",
     "dependencies": {
         "cra-template-tailwindcss": "4.0.1",
         "react": "^19.0.0",

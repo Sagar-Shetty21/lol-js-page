@@ -21,7 +21,8 @@ const App = () => {
             <header className="container mx-auto px-4 py-16 text-center">
                 <h1 className="text-6xl font-bold mb-4">lol.js</h1>
                 <p className="text-2xl text-gray-600 mb-8">
-                    The only API you'll ever need. Just returns 😂. That's it.
+                    The only Package you'll ever need. Just returns 😂. That's
+                    it.
                 </p>
                 <div className="flex justify-center gap-4">
                     <a href="https://www.npmjs.com/package/@sagar_shetty/lol.js">
