@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lol-js-page/static/css/main.f643d04c.css",
+    "main.js": "/lol-js-page/static/js/main.d2ee7157.js",
+    "index.html": "/lol-js-page/index.html",
+    "main.f643d04c.css.map": "/lol-js-page/static/css/main.f643d04c.css.map",
+    "main.d2ee7157.js.map": "/lol-js-page/static/js/main.d2ee7157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f643d04c.css",
+    "static/js/main.d2ee7157.js"
+  ]
+}
